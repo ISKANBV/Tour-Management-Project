@@ -1,0 +1,6 @@
+server:
+  port: 8008
+  servlet:
+    context-path: /api/tour_agency
+    encoding:
+      force: true
